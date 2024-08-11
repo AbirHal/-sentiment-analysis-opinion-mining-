@@ -16,6 +16,6 @@ Sentiment analysis (opinion mining) using TF-IDF ,BOW, Word2Vec with semeval-201
   
 # Clone or Download the repository.
 
-git clone https://github.com/sarthakeddy/P2P-Share-File.git
+git clone  https://github.com/AbirHal/-sentiment-analysis-opinion-mining-.git
 
   
